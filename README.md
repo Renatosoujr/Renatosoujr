@@ -1,9 +1,11 @@
 Hi friends, I’m @Renatosoujr
-- I’m interested just to lear, I'm beginner! 
+- I'm a beginner! 
 - My social medias are these: 
   - Instagram: @renatosoujr
+  - Facebook: Renato Junior
+  - LinkedIn: Renato Luiz de Souza Junior
  
- All this is new for me, so have patience.
+It's new for me, we have pacience please. 
 
 <!---
 Renatosoujr/Renatosoujr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
